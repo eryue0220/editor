@@ -1,2 +1,2 @@
 # editor
-Workflow of editors Configuration s
+Workflow of editors Configuration
